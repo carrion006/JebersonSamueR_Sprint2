@@ -1,0 +1,7 @@
+MyRunner\MyRunner.class
+stepdefinition\DiscountTest.class
+stepdefinition\ProfileTest.class
+MyRunner\AbstractTestNGCucumberTests.class
+stepdefinition\SearchBoxTest.class
+stepdefinition\HomepageTest.class
+stepdefinition\SportsTest.class
